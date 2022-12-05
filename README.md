@@ -20,7 +20,7 @@ yarn dev
 2. Open [http://localhost:3000](http://localhost:3000) with your browser to see the page.
 3. After opening, you will a NextJs error popup stating the React Hydration error like below:
 ![Error Image](https://user-images.githubusercontent.com/51703039/205663964-eba2e6ea-2dd9-49b0-a454-ce8f1108c9c4.png)
-4. Close the error popup we already know its a hydration error and instead open devtools to see our custom React Hydration Error:
+4. Close the error NextJs error popup as we already know its a hydration error and instead open devtools to see our custom React Hydration Error:
 ![Custom Error](https://user-images.githubusercontent.com/51703039/205664749-84e3e0a1-dd76-4215-903b-e1e3fdfc0c0e.png)
 
 ## Learn More
